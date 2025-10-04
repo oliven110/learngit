@@ -5,4 +5,5 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Turn off the Fast Forward mode.
 Turn on the Fast Forward mode.
-Add hello.py file
+Add hello.py file.
+Add a dev branch.
